@@ -15,3 +15,9 @@ elif(b > c):
         print("Second is greater",b)
 else:
     print("Third id Greater",c)
+
+#Another Practice:
+
+x = int(input("Enter number:"))
+if(x % 7 == 0):
+    
